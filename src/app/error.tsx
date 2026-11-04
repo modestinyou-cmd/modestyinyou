@@ -1,0 +1,1 @@
+'use client';export default function Error({reset}:{error:Error&{digest?:string};reset:()=>void}){return <div className="page-shell"><div className="empty-state"><h1 className="page-title">Something went wrong.</h1><p>Please try again. If the problem continues, get in touch with us.</p><button className="button button-dark" onClick={reset}>Try again</button></div></div>}

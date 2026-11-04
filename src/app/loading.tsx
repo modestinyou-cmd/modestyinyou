@@ -1,0 +1,1 @@
+export default function Loading(){return <><div className="page-loader-bar" aria-hidden="true"/><div className="page-shell page-transition-in" role="status" aria-live="polite"><span className="eyebrow">One moment</span><h1 className="page-title">Gathering the collection…</h1></div></>}
