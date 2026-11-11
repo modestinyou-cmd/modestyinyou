@@ -719,7 +719,7 @@ h1,h2,h3,h4,h5,h6,.page-title,.section-title,.collection-copy h3,.category-copy 
   .mobile-drawer a:hover{color:var(--espresso)}
   .footer{padding-left:6vw;padding-right:6vw}
   .footer-main{grid-template-columns:1fr;text-align:center}
-  .footer-main>div:first-child{width:100%;display:flex;justify-content:center}
+  .footer-main>div:first-child{width:100%;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start}
   .footer-main .wordmark{display:block;width:min(220px,80vw);margin:0 auto}
   .footer-main .wordmark img{width:100%;height:auto}
   .footer-main>div{min-width:0}

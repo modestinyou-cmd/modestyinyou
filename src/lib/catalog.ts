@@ -73,7 +73,7 @@ export const products: Product[] = [
     id: 'p-solid-black', slug: 'jet-black', name: 'Jet Black', category: 'Solid Hijabs', categorySlug: 'solid-hijabs',
     description: 'Our classic jet-black solid hijab is the perfect everyday staple, effortlessly complementing every outfit and occasion. Simple, versatile, and endlessly elegant, it\'s the one hijab every wardrobe needs.',
     image: '/images/71CEDEEE-78B1-4094-A2F6-9DB1D570704D.JPG',
-    images: ['/images/71CEDEEE-78B1-4094-A2F6-9DB1D570704D.JPG', '/images/042CDD5C-7641-4ADA-B8DD-162DDCE1A2AD.JPG', '/images/3E4B2E43-1D1C-4F7E-90E6-2855ADE6DD75.JPG'],
+    images: ['/images/71CEDEEE-78B1-4094-A2F6-9DB1D570704D.JPG', '/images/31250DDC-E1C1-45A5-B9EB-ACB6B9FDF24E.JPG', '/images/3E4B2E43-1D1C-4F7E-90E6-2855ADE6DD75.JPG'],
     alt: 'Jet Black solid hijab', featured: true,
     variants: [{ id: 'v-black-1', sku: 'MIU-BLACK-01', color: 'Jet Black', hex: '#1a1a1a', pricePaise: 59900, stock: 10 }],
   },
